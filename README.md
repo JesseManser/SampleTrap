@@ -1,5 +1,7 @@
 # SampleTrap
-WINDOWS VST FREE DOWNLOAD NOW AVAILABLE
+
+**[Download for Windows — 0.4.0 alpha](https://github.com/JesseManser/SampleTrap/releases/download/v0.4.0-alpha.1/SampleTrap-0.4.0-Windows-x64.zip)**
+
 SampleTrap is a low-latency instant sampler VST3 designed for live performance at a 64-sample buffer.
 
 <img src="Assets/sampletrap-logo.png" alt="SampleTrap" width="700">
